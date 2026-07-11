@@ -71,3 +71,6 @@ npm run build
 
 The compiled output will be generated in the `dist/` directory.
 
+## License
+
+This project is open-source software licensed under the [MIT License](LICENSE).
